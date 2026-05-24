@@ -42,7 +42,7 @@ async function main() {
       name: 'Allo Ashwagandha Stress Relief',
       description: 'Clinically proven KSM-66 Ashwagandha to support stress reduction and mental calm.',
       sku: 'ALLO-ASH-003',
-      imageUrl: 'https://images.unsplash.com/photo-1626887006304-32c9700b72a4?auto=format&fit=crop&q=80&w=600',
+      imageUrl: 'https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&q=80&w=600',
       price: 29.99,
     },
     {
